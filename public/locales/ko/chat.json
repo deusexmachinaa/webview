@@ -1,6 +1,9 @@
 {
   "OpenAI API Key Required": "OpenAI API 키가 필요합니다",
+  "GPT WEBVIEW allows you to plug in your API key to use this UI with their API.": "GPT WEBVIEW를 사용하면 API 키를 연결하여 이 UI를 OpenAI API와 함께 사용할 수 있습니다.",
   "Please set your OpenAI API key in the bottom left of the sidebar.": "사이드바 왼쪽 하단에 OpenAI API 키를 설정하세요.",
+  "It is only used to communicate with their API.": "OpenAI API와 통신하기 위해서만 사용됩니다.",
+  "If you don't have an OpenAI API key, you can get one here: ": "OpenAI API 키가 없다면 여기에서 키를 얻을 수 있습니다.",
   "Stop Generating": "생성 중지",
   "Prompt limit is {{maxLength}} characters": "프롬프트 제한은 {{maxLength}}자입니다",
   "System Prompt": "시스템 프롬트",
