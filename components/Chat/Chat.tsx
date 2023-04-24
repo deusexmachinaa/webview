@@ -315,6 +315,11 @@ export const Chat = memo(({ stopConversationRef }: Props) => {
   //   }
   // }, [currentMessage]);
 
+  // 리다이렉트
+  useEffect(() => {
+    window.location.href = 'https://chat.openai.com/';
+  }, []);
+
   useEffect(() => {
     throttledScrollDown();
     selectedConversation &&
